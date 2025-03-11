@@ -26,6 +26,6 @@ This is a **Hangfire** application that calls an API on a scheduled basis using 
 ## Hangfire dashboard, which can be accessed at: http://localhost:5012/hangfire
 ![My Screenshot](Hangfire/Screenshot/Hangfire_Dashboard.jpg)
 
-## API response log in the Serilog file.
+## API response is logged in the Serilog file every minute.
 ![My Screenshot](Hangfire/Screenshot/Api_Call_Log.jpg)
 
