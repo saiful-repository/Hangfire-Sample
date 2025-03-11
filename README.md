@@ -1,7 +1,7 @@
 # Hangfire Schedule Job Sample
 
 ## Overview
-This is a **Hangfire** application that calls an API on a scheduled basis using a cron expression every minute. Hangfire is a better approach than a Windows service for similar tasks. It can also be used for executing background jobs."
+This is a **Hangfire** application that calls an API on a scheduled basis using a cron expression every minute. Hangfire is a better approach than a Windows service for similar tasks. It can also be used for executing background jobs. With Hangfire, you can monitor the scheduled job status.
 
 ## Features
 **Cron-based Scheduling for precise job execution timing**
